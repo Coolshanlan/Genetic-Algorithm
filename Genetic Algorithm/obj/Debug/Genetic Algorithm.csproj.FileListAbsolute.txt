@@ -1,0 +1,37 @@
+C:\Users\皇宇\Desktop\北市賽\Genetic Algorithm\Genetic Algorithm\bin\Debug\Genetic Algorithm.exe.config
+C:\Users\皇宇\Desktop\北市賽\Genetic Algorithm\Genetic Algorithm\bin\Debug\Genetic Algorithm.exe
+C:\Users\皇宇\Desktop\北市賽\Genetic Algorithm\Genetic Algorithm\bin\Debug\Genetic Algorithm.pdb
+C:\Users\皇宇\Desktop\北市賽\Genetic Algorithm\Genetic Algorithm\obj\Debug\Genetic Algorithm.csprojResolveAssemblyReference.cache
+C:\Users\皇宇\Desktop\北市賽\Genetic Algorithm\Genetic Algorithm\obj\Debug\Genetic_Algorithm.Form1.resources
+C:\Users\皇宇\Desktop\北市賽\Genetic Algorithm\Genetic Algorithm\obj\Debug\Genetic_Algorithm.Properties.Resources.resources
+C:\Users\皇宇\Desktop\北市賽\Genetic Algorithm\Genetic Algorithm\obj\Debug\Genetic Algorithm.csproj.GenerateResource.Cache
+C:\Users\皇宇\Desktop\北市賽\Genetic Algorithm\Genetic Algorithm\obj\Debug\Genetic Algorithm.exe
+C:\Users\皇宇\Desktop\北市賽\Genetic Algorithm\Genetic Algorithm\obj\Debug\Genetic Algorithm.pdb
+D:\Google硬碟\小宇小遊戲\Genetic Algorithm\Genetic Algorithm\bin\Debug\Genetic Algorithm.exe.config
+D:\Google硬碟\小宇小遊戲\Genetic Algorithm\Genetic Algorithm\obj\Debug\Genetic Algorithm.exe
+D:\Google硬碟\小宇小遊戲\Genetic Algorithm\Genetic Algorithm\obj\Debug\Genetic Algorithm.pdb
+D:\Google硬碟\小宇小遊戲\Genetic Algorithm\Genetic Algorithm\bin\Debug\Genetic Algorithm.exe
+D:\Google硬碟\小宇小遊戲\Genetic Algorithm\Genetic Algorithm\bin\Debug\Genetic Algorithm.pdb
+D:\Google硬碟\小宇小遊戲\Genetic Algorithm\Genetic Algorithm\obj\Debug\Genetic Algorithm.csprojResolveAssemblyReference.cache
+D:\Google硬碟\小宇小遊戲\Genetic Algorithm\Genetic Algorithm\obj\Debug\Genetic_Algorithm.Form1.resources
+D:\Google硬碟\小宇小遊戲\Genetic Algorithm\Genetic Algorithm\obj\Debug\Genetic_Algorithm.Properties.Resources.resources
+D:\Google硬碟\小宇小遊戲\Genetic Algorithm\Genetic Algorithm\obj\Debug\Genetic Algorithm.csproj.GenerateResource.Cache
+D:\Google 雲端硬碟\小宇小遊戲\Genetic Algorithm\Genetic Algorithm\bin\Debug\Genetic Algorithm.exe.config
+D:\Google 雲端硬碟\小宇小遊戲\Genetic Algorithm\Genetic Algorithm\obj\Debug\Genetic Algorithm.exe
+D:\Google 雲端硬碟\小宇小遊戲\Genetic Algorithm\Genetic Algorithm\obj\Debug\Genetic Algorithm.pdb
+D:\Google 雲端硬碟\小宇小遊戲\Genetic Algorithm\Genetic Algorithm\bin\Debug\Genetic Algorithm.exe
+D:\Google 雲端硬碟\小宇小遊戲\Genetic Algorithm\Genetic Algorithm\bin\Debug\Genetic Algorithm.pdb
+D:\Google 雲端硬碟\小宇小遊戲\Genetic Algorithm\Genetic Algorithm\obj\Debug\Genetic Algorithm.csprojResolveAssemblyReference.cache
+D:\Google 雲端硬碟\小宇小遊戲\Genetic Algorithm\Genetic Algorithm\obj\Debug\Genetic_Algorithm.Form1.resources
+D:\Google 雲端硬碟\小宇小遊戲\Genetic Algorithm\Genetic Algorithm\obj\Debug\Genetic_Algorithm.Properties.Resources.resources
+D:\Google 雲端硬碟\小宇小遊戲\Genetic Algorithm\Genetic Algorithm\obj\Debug\Genetic Algorithm.csproj.GenerateResource.Cache
+G:\我的雲端硬碟\小宇酷炫程式集 C#\Genetic Algorithm\Genetic Algorithm\bin\Debug\Genetic Algorithm.exe.config
+G:\我的雲端硬碟\小宇酷炫程式集 C#\Genetic Algorithm\Genetic Algorithm\bin\Debug\Genetic Algorithm.exe
+G:\我的雲端硬碟\小宇酷炫程式集 C#\Genetic Algorithm\Genetic Algorithm\bin\Debug\Genetic Algorithm.pdb
+G:\我的雲端硬碟\小宇酷炫程式集 C#\Genetic Algorithm\Genetic Algorithm\obj\Debug\Genetic Algorithm.csprojResolveAssemblyReference.cache
+G:\我的雲端硬碟\小宇酷炫程式集 C#\Genetic Algorithm\Genetic Algorithm\obj\Debug\Genetic_Algorithm.Form1.resources
+G:\我的雲端硬碟\小宇酷炫程式集 C#\Genetic Algorithm\Genetic Algorithm\obj\Debug\Genetic_Algorithm.Properties.Resources.resources
+G:\我的雲端硬碟\小宇酷炫程式集 C#\Genetic Algorithm\Genetic Algorithm\obj\Debug\Genetic Algorithm.csproj.GenerateResource.Cache
+G:\我的雲端硬碟\小宇酷炫程式集 C#\Genetic Algorithm\Genetic Algorithm\obj\Debug\Genetic Algorithm.csproj.CoreCompileInputs.cache
+G:\我的雲端硬碟\小宇酷炫程式集 C#\Genetic Algorithm\Genetic Algorithm\obj\Debug\Genetic Algorithm.exe
+G:\我的雲端硬碟\小宇酷炫程式集 C#\Genetic Algorithm\Genetic Algorithm\obj\Debug\Genetic Algorithm.pdb
